@@ -33,6 +33,3 @@ Conceito: Eliminação de escopo global e transição de estado sensível via m�
 Linguagem: Python 3.x
 
 Framework de Testes: unittest (nativo do Python)
-
-🚀 Como Executar os Testes
-Para rodar os testes unitários da Atividade 3, execute o comando abaixo no terminal:
